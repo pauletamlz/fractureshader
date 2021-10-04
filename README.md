@@ -1,2 +1,2 @@
 ![](fractureshadergif.gif)
-![alt text](shadergraph.jpg)
+![alt text](shadergraph.JPG)
