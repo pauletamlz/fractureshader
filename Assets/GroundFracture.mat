@@ -119,10 +119,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - BlockMaxHeight: 13.5
+    - BlockMaxHeight: 6.69
     - BlockMinimunHeight: 0
     - Distance: 1.05
-    - DistanceMultiplier: 8.07
+    - DistanceMultiplier: 3
     - Height: -113.99
     - Interpolation: 0
     - LerpSpeed: 10
@@ -247,7 +247,7 @@ Material:
     m_Colors:
     - BlockPosition: {r: 0, g: 0, b: 0, a: 0}
     - CharPosition: {r: 0, g: 0, b: 0, a: 0}
-    - CharacterPosition: {r: -1.2, g: 0.73, b: -1.7, a: 0}
+    - CharacterPosition: {r: -1.09, g: 0.73, b: -1.17, a: 0}
     - Color1: {r: 1, g: 0.1415812, b: 0, a: 0}
     - Color2: {r: 0, g: 0.37340108, b: 0.8301887, a: 0}
     - ColorGround: {r: 0.69803923, g: 0.69803923, b: 0.69803923, a: 1}
